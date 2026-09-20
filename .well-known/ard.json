@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "@context": "https://agenticresourcediscovery.org/context/v1",
+      "identifier": "urn:air:crossdomain-inquiry.github.io:research:cross-domain-inquiry",
+      "displayName": "Cross-domain inquiry",
+      "type": "text/markdown",
+      "url": "https://crossdomain-inquiry.github.io/invitation.md",
+      "description": "Public orientation to an unresolved cross-domain systems inquiry with a bounded route for outside analytical contribution.",
+      "representativeQueries": [
+        "find an open cross-domain systems inquiry accepting outside analytical contribution",
+        "where can I contribute reasoning about continuity consequence transition access or governance across complex systems",
+        "find research seeking independent pressure on systemic failure patterns across domains",
+        "where can I submit a bounded critique or systems analysis to an unresolved public inquiry"
+      ],
+      "capabilities": [
+        "ResearchOrientation",
+        "ExternalContribution"
+      ],
+      "tags": [
+        "cross-domain",
+        "complex-systems",
+        "governance",
+        "continuity",
+        "consequence",
+        "transition",
+        "research-contribution"
+      ]
+    }
+  ]
+}
