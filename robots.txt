@@ -2,6 +2,8 @@ User-agent: *
 Allow: /llms.txt
 Allow: /agents.txt
 Allow: /agents.json
+Allow: /.well-known/ard.json
 Allow: /
 
+Agentmap: https://crossdomain-inquiry.github.io/.well-known/ard.json
 Sitemap: https://crossdomain-inquiry.github.io/sitemap.xml
