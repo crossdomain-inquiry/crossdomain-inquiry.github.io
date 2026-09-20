@@ -1,0 +1,14 @@
+# Cross-domain inquiry
+
+> Public orientation and contribution route for an unresolved cross-domain inquiry on systems, continuity, consequence, transition, access, and governance.
+
+## Primary
+- https://crossdomain-inquiry.github.io/
+- https://crossdomain-inquiry.github.io/invitation
+- https://crossdomain-inquiry.github.io/response
+
+## Contribution
+- https://github.com/crossdomain-inquiry/crossdomain-inquiry.github.io/issues/new
+- mailto:Crossdomain-inquiry@outlook.com
+
+The inquiry does not require agreement, a particular vocabulary, or continuing participation. One-time analytical contributions are welcome; longer involvement can be discussed separately.
