@@ -1,0 +1,10 @@
+# agents.txt
+# Standard: https://agents-txt.com
+# JSON: https://crossdomain-inquiry.github.io/agents.json
+#
+# Cross-domain inquiry exposes public orientation material and a bounded contribution route.
+# No MCP, A2A, payment, authorization, or other agent-interaction protocol is declared at this time.
+#
+# Orientation: https://crossdomain-inquiry.github.io/invitation.md
+# Contribution: https://github.com/crossdomain-inquiry/crossdomain-inquiry.github.io/issues/new
+# Additional machine-readable context: https://crossdomain-inquiry.github.io/llms.txt
