@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agents-txt.com/schema/agents-json/v1.0.json",
+  "version": "1.0",
+  "standard": "https://agents-txt.com",
+  "site": {
+    "name": "Cross-domain inquiry",
+    "url": "https://crossdomain-inquiry.github.io/",
+    "description": "Public orientation and bounded contribution route for an unresolved cross-domain inquiry on systems, continuity, consequence, transition, access, and governance."
+  }
+}
