@@ -6,4 +6,5 @@
   <url><loc>https://crossdomain-inquiry.github.io/llms.txt</loc></url>
   <url><loc>https://crossdomain-inquiry.github.io/agents.txt</loc></url>
   <url><loc>https://crossdomain-inquiry.github.io/agents.json</loc></url>
+  <url><loc>https://crossdomain-inquiry.github.io/.well-known/ard.json</loc></url>
 </urlset>
